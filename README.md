@@ -9,6 +9,9 @@ structural compatibility when grouping pixels into attention clusters. A lightwe
 **Frequency Structure Encoder (FSE)** extracts local structure descriptors via DCT
 decomposition, which guide both the routing process and a structure-aware fusion module.
 
+The training scripts, evaluation scripts, and pretrained models will be
+released after acceptance.
+
 ## Files
 
 ```
